@@ -10,7 +10,7 @@ A basic Go application that prints "Hello, Go!" to the console.
 
 ## 📌  Clone the Repository
 
-* git clone https://github.com/your-username/my-go-project.git
+* git clone https://github.com/AntonyIS-chain/hello-world.git
 * cd my-go-project
 
 ## 📌  Run the Application
